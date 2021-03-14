@@ -1,0 +1,4 @@
+TrafficLight.c:11:6:vGreenLightTimerCallback	40	static
+TrafficLight.c:25:6:vYellowLightTimerCallback	32	static
+TrafficLight.c:36:6:vRedLightTimerCallback	40	static
+TrafficLight.c:51:6:TrafficLightTask	32	static
